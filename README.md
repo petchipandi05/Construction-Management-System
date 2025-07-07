@@ -23,7 +23,6 @@ This system helps contractors manage multiple projects from a single platform an
 - 👷 Contractor login and ability to create/manage multiple projects
 - 📁 Upload weekly progress updates with images and cost details
 - 🧱 Track material usage like sand, cement, etc.
-- 👥 Assign mechanics/workers to specific projects with profile sharing
 - 👤 Client login to view updates and verify assigned workers
 - ✉️ Email notifications sent to clients on each update
 - 🗣️ Feedback system for client–contractor communication
