@@ -93,7 +93,7 @@ const ClientProgressDetails = () => {
         <Header />
         <div className="max-w-7xl mx-auto p-8 pt-24 flex-grow">
           <button
-            onClick={() => navigate(`/client/projects/${id}`)}
+            onClick={() => navigate(`/clientdashboard/projects/${id}`)}
             className="flex items-center gap-2 text-orange-500 hover:text-orange-600 mb-6 ml-auto"
           >
             <ArrowLeft className="w-5 h-5" /> Back to Project Details
@@ -175,7 +175,7 @@ const ClientProgressDetails = () => {
           </div>
         </div>
         <button
-          onClick={() => navigate(`/client/projects/${id}`)}
+          onClick={() => navigate(`/clientdashboard/projects/${id}`)}
           className="mt-6 ml-auto px-4 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors"
         >
           Back

@@ -206,7 +206,7 @@ const ClientMaterialTrack = () => {
           
           <div className="p-4 border-t border-gray-200 flex justify-end">
             <button
-              onClick={() => navigate(`/client/projects/${id}`)}
+              onClick={() => navigate(`/clientdashboard/projects/${id}`)}
               className="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400 transition-colors duration-200"
             >
               Back to Project
